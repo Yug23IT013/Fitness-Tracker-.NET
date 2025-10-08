@@ -155,11 +155,3 @@ Potential improvements for future versions:
 - Advanced analytics and reporting
 - Integration with fitness devices
 
-## Support
-
-For issues or questions about the application, please refer to the code documentation or contact the development team.
-
-## License
-
-This project is created for educational purposes. Please ensure compliance with any applicable licenses for third-party components used.
-#FitnessTracker
